@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Landing page</title>
+        <link rel="stylesheet"  type="text/css" href="style2.css">
+            
+    </head>
+    <body>
+        <header>
+        <nav>
+            <div class="logo">
+                <img src="C:\Users\ABOLI UNMESH RISBUD\Desktop\landing page\main.jpeg" width="100">
+            </div>
+            <div class="menu">
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Blog</a>
+                <a href="#">Services</a>
+                <a href="#">Contact</a>
+                <a href="#">Order now</a>
+            </div>
+        </nav>
+        <img src="C:\Users\ABOLI UNMESH RISBUD\Desktop\landing page\table.jpeg"  width="500"  id="table">
+        <div class="htext">
+            <h1>On your <span>service</span></h1>
+            <h2>Best Quality Tables</h2> 
+             <h3>At very affordable prices</h3>
+             <br>
+             <a href="#">Book now</a>
+        </div>
+        <img src="C:\Users\ABOLI UNMESH RISBUD\Desktop\landing page\man.jpeg" width="169" id="welcome">
+        </header>
+    </body>
+</html>
